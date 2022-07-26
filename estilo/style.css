@@ -70,14 +70,13 @@ nav {
 }
 
 nav > a {
-    display: flex;
     color: var(--cor1);
     padding: 10px;
     border-radius: 5px;
     text-decoration: none;
     font-weight: bold;
     transition-duration: .5s;
-    justify-content: space-between;
+    
 }
 
 nav > a:hover {
